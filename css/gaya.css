@@ -1,0 +1,92 @@
+body{
+	padding-top: 70px;
+}
+.myfam{
+	height: 700px;
+}
+.jumbotron{background-color: #f9c5dd !important;
+}
+.p{text-align: center
+}
+.menukiri{background-color: #42f4a1;
+	min-height: 230px; margin: 10px 5px 15px 20px;padding: 10px 5px 15px 20px;border-radius: 20px;
+}
+.menukanan{background-color: #efaa8f;
+	min-height: 230px;margin: 10px 5px 15px 20px;padding: 10px 5px 15px 20px;border-radius: 20px;
+}
+.ajakan{background-color: #e9ed17;
+	height: 75px;text-align: center;font-family: arial;
+}
+.header{background-color: #f3f4c1;height: 10px;
+}
+.img-banner{width: 50%; display: inline-block !important;}
+.box{color: #fff;background-color: #923D54;border-color: #F1AAAF;padding: 22px 15px 27px;height: 430px;
+}
+.center{text-align: center;color: blue
+}
+.font{font-size: 30px;
+}
+.bg{background-color: #C39BD3;
+}
+p.italic{font-style: italic;font-weight: bold;
+}
+.padding{padding:20px 30px 25px 35px
+}
+.testikiri{
+	height: 200px; margin: 10px 70px 20px 0px;
+	padding: 10px 5px 15px 20px;  
+	border-radius: 4px 4px 0 0;
+	text-align: justify;
+}
+.testikanan{
+	height: 400px;
+}
+.navbar-inverse{
+	background-color:#eec7bc;
+	border: none;
+	border-radius: 0;
+}
+.biodata{margin-left: 100px; padding: 5px;}
+.title-recognisi{
+	margin-top: 100px;
+}
+.bg-recognisi-1{
+	background-color: #42f4a1;
+}
+.bg-recognisi-2{
+	background-color: #efaa8f;
+}
+.title-testimoni{
+	font-family: 'Pacifico', cursive,Courgette;
+	padding: 30px 0px;
+}
+.footer{
+	background-color: #ffdab9;
+}
+.margin-top{
+	height: 70px;
+}
+.margin-0{
+	margin: 0;
+}
+.bek{
+     background-image: url("../images/background.jpg");
+     height: 100%
+     background-position:center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+}
+.gbr {
+
+    /* The image used */
+    background-image: url("images/bk1.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
